@@ -13,7 +13,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XuShuwenn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
+<!-- 贪吃蛇 -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/XuShuwenn/Pstarchen/output/github-contribution-grid-snake-dark.svg" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 XuShuwenn/XuShuwenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
