@@ -15,7 +15,7 @@
 
 <!-- 贪吃蛇 -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/XuShuwenn/Pstarchen/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/XuShuwenn/XuShuwenn/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
