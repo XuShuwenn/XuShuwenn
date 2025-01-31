@@ -2,6 +2,8 @@
 - 👀 I’m interested in artificial intelligence, NLP and ML in particular.
 - 🌱 I’m currently studying python and practicing LaTex in my spare time.
 - 📫 How to reach me : xushuwen23@mails.ucas.ac.cn
+  
+![](https://komarev.com/ghpvc/?username=XuShuwenn&color=yellowgreen)
 
 ### ✍️ A Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
