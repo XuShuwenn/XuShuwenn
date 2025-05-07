@@ -1,5 +1,5 @@
 # 👋 Hi, I’m XuShuwen, a newcomer in github.
-- 👀 I’m interested in artificial intelligence, NLP and CV in particular.
+- 👀 I’m interested in NLP, LLM and mLLM in particular.
 - 🌱 I’m currently studying and practicing Pytorch in my spare time.
 - 📫 How to reach me : xushuwen23@mails.ucas.ac.cn
   
