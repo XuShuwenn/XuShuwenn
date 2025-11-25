@@ -8,6 +8,3 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/XuShuwenn/XuShuwenn/refs/heads/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
-# ✍️ A Random Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
