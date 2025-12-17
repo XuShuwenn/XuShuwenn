@@ -1,6 +1,6 @@
-# 👋 Hi, I’m XuShuwen, a newcomer in github.
-- 👀 I’m interested in anything about LLMs.
-- 🌱 I’m currently studying RL in my spare time.
+# 👋 Hi, I’m XuShuwen
+- 👀 I’m interested in reasoning LLMs and agentic RL.
+- 🌱 I’m currently working on ReAct-style agents training.
 - 📫 How to reach me : xushuwen23@mails.ucas.ac.cn
   
 ![](https://komarev.com/ghpvc/?username=XuShuwenn&color=yellowgreen)
