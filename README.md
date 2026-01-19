@@ -1,6 +1,6 @@
 # 👋 Hi, I’m XuShuwen
-- 👀 I’m interested in reasoning LLMs and agentic RL.
-- 🌱 I’m currently working on ReAct-style agents training.
+- 👀 I’m interested in reasoning LLM post-training and LLM agents.
+- 🌱 I’m currently working on building reliable and generalizable agents.
 - 📫 How to reach me : xushuwen23@mails.ucas.ac.cn
   
 ![](https://komarev.com/ghpvc/?username=XuShuwenn&color=yellowgreen)
