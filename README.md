@@ -1,4 +1,4 @@
-# 👋 Hi, I’m XuShuwen
+# 👋 Hi, I’m Xu, Shuwen
 - 👀 I’m interested in reasoning LLM post-training and LLM agents.
 - 🌱 I’m currently working on building reliable and generalizable agents.
 - 📫 How to reach me : xushuwen23@mails.ucas.ac.cn
